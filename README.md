@@ -7,3 +7,7 @@ You may increment up to 3 periods and reset the game with the reset button
 # Intent
 
 The intent behind this project is to become familiar with DOM element selection, working with event listeners and adding classes via Javascript
+
+# Live Site URL
+
+https://score-board-austinparvin.netlify.com
