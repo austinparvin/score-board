@@ -90,8 +90,8 @@ const reset = () => {
   document.querySelector('.team-1-end-game-message').textContent = ''
   document.querySelector('.team-1-score').classList.remove('loser')
   document.querySelector('.team-2-score').classList.remove('winner')
-  document.querySelector('.team-1-score').classList.remove('loser')
-  document.querySelector('.team-2-score').classList.remove('winner')
+  document.querySelector('.team-1-score').classList.remove('winner')
+  document.querySelector('.team-2-score').classList.remove('loser')
 }
 
 document.addEventListener('DOMContentLoaded', main)
